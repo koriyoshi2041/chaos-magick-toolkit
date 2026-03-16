@@ -30,7 +30,7 @@
 
 This is not software. This is a working instrument.
 
-**CHAOS MAGICK** is a command-line toolkit for the practice of Chaos Magick -- the art of using belief as a tool rather than an end. It implements the core disciplines of the tradition with technical precision and philosophical integrity: sigil creation following Austin Osman Spare's method, gnosis induction across twelve techniques catalogued by Peter Carroll, servitor lifecycle management, divination through the eight-rayed star, ritual construction with the Gnostic Pentagram Ritual at its heart, and a magickal diary that tracks practice against the lunar cycle.
+**CHAOS MAGICK** is a command-line toolkit for the practice of Chaos Magick -- the art of using belief as a tool rather than an end. It implements the core disciplines of the tradition with technical precision and philosophical integrity: sigil creation following Austin Osman Spare's method, gnosis induction across fourteen techniques catalogued by Peter Carroll, servitor lifecycle management, divination through the eight-rayed star, ritual construction with the Gnostic Pentagram Ritual at its heart, and a magickal diary that tracks practice against the lunar cycle.
 
 Every operation uses cryptographic randomness drawn from the OS entropy pool. No pseudo-random shortcuts. When the oracle speaks, it speaks from genuine chaos.
 
@@ -38,7 +38,7 @@ Every operation uses cryptographic randomness drawn from the OS entropy pool. No
 >
 > -- Peter J. Carroll, *Liber Null*
 
-The tool does not tell you what to believe. It gives you the machinery to work with whatever paradigm you choose to inhabit -- and to shed it when the work is done.
+The tool does not tell you what to believe. It gives you the machinery to work with whatever paradigm you choose to inhabit -- and to shed it when the work is done. This is the core of Chaos Magick: *paradigm shifting*. Adopt a belief system for the duration of the working, exploit it fully, then discard it and adopt another. No model is true. Every model is useful -- until it isn't.
 
 ---
 
@@ -50,7 +50,11 @@ The tool does not tell you what to believe. It gives you the machinery to work w
 >
 > -- Austin Osman Spare
 
-Desire enters as language. It leaves as glyph. The Forge implements three methods of sigilization:
+Desire enters as language. It leaves as glyph.
+
+Begin with a **Statement of Intent**: a clear, present-tense declaration of will. The traditional form is *"IT IS MY WILL TO..."* or *"IT IS MY DESIRE TO..."* -- precise, affirmative, with no room for ambiguity. The statement is the raw material. The Forge transforms it.
+
+Three methods of sigilization:
 
 **Spare's Classic Method** -- The original technique. Your statement of intent is stripped of vowels, deduplicated to its consonant skeleton, and the remaining letters overlaid into a single composite glyph on a 13x13 grid. The result is a visual sigil unique to your desire, rendered in Unicode line-drawing characters.
 
@@ -82,7 +86,7 @@ Gnosis is the altered state of consciousness in which magic operates. The Engine
 | Breath Control | Guided rhythmic breathing (4-4-6, 4-7-8, 6-6-6 patterns) |
 | Mantra Repetition | Repeat until meaning collapses |
 | Sensory Deprivation | Cut all input; consciousness expands |
-| Spare's Neither-Neither | Hold two contradictions until the mind short-circuits |
+| Spare's Neither-Neither | Hold two contradictions simultaneously -- arguably the defining technique of Chaos Magick -- until the rational mind collapses into vacuity |
 | Spare's Death Posture | Extreme tension until the body collapses into vacuity |
 
 **Excitatory** (gnosis through overload):
@@ -326,6 +330,8 @@ In the language of the tradition:
 > -- Phil Hine
 
 This tool does not require you to believe in magic. It does not require you to disbelieve. It requires you to *practice* -- to test, to record, to measure, to adjust. The Black Book is there for a reason. Use it.
+
+Chaos Magick has no holy books. It has no prophets. It treats belief itself as a technology -- a lever to be pulled, not a throne to be worshipped. The practitioner who works with Odin on Monday, Kali on Wednesday, and pure mathematical abstraction on Friday is not confused. They are *skilled*.
 
 The question is never "Is this real?" The question is "Does this work?"
 

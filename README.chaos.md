@@ -54,6 +54,8 @@ This is **CHAOS MAGICK** -- the toolkit of the chaoist, the pragmatic sorcerer, 
    ▓  LIBER NIGER     The mirror of the Great Work
 ```
 
+The chaoist does not worship belief. The chaoist *wields* it. Adopt a paradigm for the duration of the working. Exploit it fully. Discard it. Adopt another. This is paradigm shifting -- the fundamental technique of the Art. No model is sacred. Every model is a weapon -- until it dulls.
+
 Every random operation draws from the OS entropy pool via cryptographic primitives. When the oracle casts its lot, the lot is drawn from genuine chaos -- the irreducible noise of physical reality. *Ex nihilo, veritas.*
 
 ---
