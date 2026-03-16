@@ -1,14 +1,12 @@
 <div align="center">
 
-<a href="README.md">English</a> · <a href="README.chaos.md">Liber Instrumentum Chaos</a>
-
-<br>
-
 <img src="assets/banner.svg" alt="Chaos Magick Practice Toolkit" width="100%">
 
 <br>
 
 ### ⛧ LIBER INSTRUMENTUM CHAOS ⛧
+
+<sub><a href="README.md">English</a> · <a href="README.chaos.md"><b>Liber Instrumentum Chaos</b></a></sub>
 
 <br>
 
