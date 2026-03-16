@@ -1,0 +1,22 @@
+{
+  "name": "chaos-magick",
+  "version": "1.0.0",
+  "description": "Chaos Magick practice toolkit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx src/cli/main.ts",
+    "build": "tsc",
+    "sigil": "npx tsx src/cli/main.ts sigil",
+    "gnosis": "npx tsx src/cli/main.ts gnosis",
+    "servitor": "npx tsx src/cli/main.ts servitor",
+    "oracle": "npx tsx src/cli/main.ts oracle",
+    "ritual": "npx tsx src/cli/main.ts ritual",
+    "diary": "npx tsx src/cli/main.ts diary"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
