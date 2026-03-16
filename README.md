@@ -1,26 +1,21 @@
-```
-                    \       |       /
-                     \      |      /
-                      \     |     /
-               -------  ◉  -------
-                      /     |     \
-                     /      |      \
-                    /       |       \
-
-             C H A O S    M A G I C K
-                 Practice Toolkit
-```
-
 <div align="center">
+
+<a href="README.md">English</a> · <a href="README.chaos.md">Liber Instrumentum Chaos</a>
+
+<br>
+
+<img src="assets/banner.svg" alt="Chaos Magick Practice Toolkit" width="100%">
+
+<br>
+
+**A grimoire in code. A temple in the terminal.**
+**Forged by practitioners. For practitioners.**
+
+<br>
 
 > *"Nothing is true, everything is permitted."*
 >
 > -- Hassan-i Sabbah, via William S. Burroughs, via the Current
-
----
-
-**A grimoire in code. A temple in the terminal.**
-**Forged by practitioners. For practitioners.**
 
 ---
 
@@ -339,22 +334,14 @@ The question is never "Is this real?" The question is "Does this work?"
 
 <div align="center">
 
+---
+
 *For those who speak the tongue of the void:*
 
 **[README.chaos.md](README.chaos.md)** -- *Liber Instrumentum Chaos*
 
----
+<br>
 
-```
-        \       |       /
-         \      |      /
-          \     |     /
-   -------  ◉  -------
-          /     |     \
-         /      |      \
-        /       |       \
-```
-
-*The void reclaims its silence.*
+⛧ *The void reclaims its silence.* ⛧
 
 </div>

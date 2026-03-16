@@ -1,22 +1,16 @@
-```
-                         ✦
-                        /|\
-                       / | \
-                      /  |  \
-                     /   |   \
-              ------+ ◉  +------
-                     \   |   /
-                      \  |  /
-                       \ | /
-                        \|/
-                         ✦
-
-          ⛧  L I B E R  ⛧
-     I N S T R U M E N T U M
-            C H A O S
-```
-
 <div align="center">
+
+<a href="README.md">English</a> · <a href="README.chaos.md">Liber Instrumentum Chaos</a>
+
+<br>
+
+<img src="assets/banner.svg" alt="Chaos Magick Practice Toolkit" width="100%">
+
+<br>
+
+### ⛧ LIBER INSTRUMENTUM CHAOS ⛧
+
+<br>
 
 > *NIHIL EST VERUM. OMNIA LICENT.*
 >
@@ -69,7 +63,9 @@ Every random operation draws from the OS entropy pool via cryptographic primitiv
 
 ### Via Spare -- *Methodus Classica*
 
-The Statement of Intent is inscribed. The vowels are stripped -- *AEIOU delenda sunt*. The remaining consonants are deduplicated. What remains is the skeletal essence of desire, stripped of meaning, rendered pure as bone.
+Begin with the **Declaratio Voluntatis** -- the Statement of Intent. A clear, present-tense declaration: *"IT IS MY WILL TO..."* or *"IT IS MY DESIRE TO..."* -- precise, affirmative, admitting no ambiguity. This is the raw materia.
+
+The vowels are stripped -- *AEIOU delenda sunt*. The remaining consonants are deduplicated. What remains is the skeletal essence of desire, stripped of meaning, rendered pure as bone.
 
 These letters are overlaid upon a 13x13 grid. Each letter contributes its strokes. The composite glyph is the sigil -- a visual form that the conscious mind cannot decode, but the subconscious recognizes as command.
 
@@ -134,7 +130,7 @@ Gnosis (γνῶσις): the state of consciousness in which the rational censor 
 | ♁ Respiratio | Rhythmic breath: inhale-hold-exhale in sacred ratios |
 | △ Mantra | Repeat until the word loses all meaning |
 | ▽ Privatio Sensuum | Cut input to zero. Consciousness expands in the void |
-| ⊕ *Neither-Neither* | Spare's masterwork: hold two contradictions until the mind shatters into vacuity |
+| ⊕ *Neither-Neither* | Spare's masterwork and the defining technique of Chaos Magick: hold two contradictions simultaneously until the rational mind shatters into vacuity |
 | ⛧ *Positura Mortis* | Spare's Death Posture: extreme tension until collapse into vacuity |
 
 ### VIA EXCITATORIA -- *Per Furorem*
@@ -375,6 +371,8 @@ This instrument descends from:
 > *The question is 'Does this work?'"*
 
 The toolkit does not ask thee to believe. It does not ask thee to disbelieve. It asks thee to **practice** -- to test, to record in the Black Book, to measure, to adjust, to cast again.
+
+Chaos Magick hath no holy books, no prophets, no unquestionable doctrine. It treats belief itself as *techne* -- a technology, a lever, not a throne. The practitioner who invokes Thoth at dawn, works with Eris at noon, and operates through pure mathematical formalism at dusk is not confused. *They are skilled.*
 
 Belief is a tool. Pick it up. Use it. Put it down when finished.
 
