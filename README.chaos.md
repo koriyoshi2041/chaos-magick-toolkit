@@ -133,6 +133,7 @@ Gnosis (γνῶσις): the state of consciousness in which the rational censor 
 | △ Mantra | Repeat until the word loses all meaning |
 | ▽ Privatio Sensuum | Cut input to zero. Consciousness expands in the void |
 | ⊕ *Neither-Neither* | Spare's masterwork: hold two contradictions until the mind shatters into vacuity |
+| ⛧ *Positura Mortis* | Spare's Death Posture: extreme tension until collapse into vacuity |
 
 ### VIA EXCITATORIA -- *Per Furorem*
 
@@ -144,6 +145,7 @@ Gnosis (γνῶσις): the state of consciousness in which the rational censor 
 | ▽ Probatio | Controlled ordeal: cold, exertion, sustained posture |
 | ⛧ Excitatio Affectus | Channel extreme emotion as a gateway |
 | ◉ Gnosis Sexualis | The oldest technique. At the peak -- fire the sigil. |
+| ♁ Hyperventilatio | Rapid deep breathing; gnosis achieved in the held breath |
 
 The Engine provides breath-pattern timers, drumming metronomes, mantra pulse generators, and simple countdown timers. It provides the *framework*. Thou providest the fire.
 
@@ -246,6 +248,14 @@ Banish -- State intent -- Achieve gnosis -- **FIRE** -- Banish with laughter -- 
 ### Ritus Creationis Servitoris
 
 Prepare -- Name the entity -- Define purpose -- Breathe life through gnosis -- Set boundaries -- First feeding -- Seal and release.
+
+### Ritus Invocationis -- *God-Form Assumption*
+
+Assume the mask. Enter gnosis. Channel the archetype. Work with its force. Remove the mask. Banish. *Tu non es deus. Tu es operator.*
+
+### Fulmen Gnosticum -- *The Gnostic Thunderbolt*
+
+Rapid-fire banishing. Three exhalations. Three stamps. The space is cleared in seconds. *For when the full GPR would be a siege engine deployed against a moth.*
 
 ### Ritus Proprii -- *Custom Rituals*
 

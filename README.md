@@ -72,7 +72,7 @@ npm run sigil
 >
 > -- Peter J. Carroll
 
-Gnosis is the altered state of consciousness in which magic operates. The Engine provides guided sessions across twelve techniques in two categories:
+Gnosis is the altered state of consciousness in which magic operates. The Engine provides guided sessions across fourteen techniques in two categories:
 
 **Inhibitory** (gnosis through stillness):
 | Technique | Gateway |
@@ -83,6 +83,7 @@ Gnosis is the altered state of consciousness in which magic operates. The Engine
 | Mantra Repetition | Repeat until meaning collapses |
 | Sensory Deprivation | Cut all input; consciousness expands |
 | Spare's Neither-Neither | Hold two contradictions until the mind short-circuits |
+| Spare's Death Posture | Extreme tension until the body collapses into vacuity |
 
 **Excitatory** (gnosis through overload):
 | Technique | Gateway |
@@ -93,6 +94,7 @@ Gnosis is the altered state of consciousness in which magic operates. The Engine
 | Ordeal | Controlled intensity breaks the mind free |
 | Emotional Peak | Channel extreme emotion as a gateway |
 | Sexual Gnosis | The oldest technique; climax shatters the conscious mind |
+| Overbreathing | Rapid deep breathing floods the body with oxygen; gnosis in the breath-hold |
 
 The Engine provides real-time timers, breath pattern guides, and drumming metronomes. It does not simulate gnosis. It gives you the framework. You provide the fire.
 
@@ -153,13 +155,17 @@ npm run oracle
 >
 > -- Aleister Crowley
 
-Three built-in ritual templates, plus the ability to construct your own:
+Five built-in ritual templates, plus the ability to construct your own:
 
 **The Gnostic Pentagram Ritual (GPR)** -- The primary banishing ritual of Chaos Magick, Carroll's answer to the Lesser Banishing Ritual of the Pentagram. Ten steps: preparation, the threefold vibration of IAO, four directional pentagrams, completion of the circle, and the sealing vibration. The Architect provides step-by-step guidance with timing.
 
 **Sigil Charging Ceremony** -- A complete ritual for charging a prepared sigil: banish, state intent, achieve gnosis, fire the sigil, banish with laughter, forget.
 
 **Servitor Creation Ceremony** -- The full rite for bringing a servitor to life: prepare the space, declare the name, define the purpose, breathe life through gnosis, set boundaries, give the first feeding, seal and release.
+
+**Invocation Ritual (God-Form)** -- Assume the mask of a god, archetype, or egregore. Enter gnosis, invoke the form, channel its qualities, work with its force, then remove the mask and banish.
+
+**Gnostic Thunderbolt** -- A rapid-fire banishing for when the full GPR is too much. Three sharp exhalations, three stamps, and the space is cleared in seconds.
 
 **Custom Rituals** -- Build your own step-by-step ritual templates. Specify name, purpose, steps with instructions and optional timing, and whether to include banishing before and after. Custom rituals persist to disk and appear alongside the built-ins.
 
@@ -266,8 +272,8 @@ src/
     storage.ts            # JSON file persistence (~/.chaos-magick/)
   data/
     quotes.ts             # Collected words of the practitioners
-    gnosis-methods.ts     # Twelve gnosis technique descriptions
-    gpr.ts                # Built-in ritual templates (GPR, Sigil Charge, Servitor Creation)
+    gnosis-methods.ts     # Fourteen gnosis technique descriptions
+    gpr.ts                # Built-in ritual templates (GPR, Sigil Charge, Servitor Creation, Invocation, Thunderbolt)
     colors.ts             # Carroll's Eight Colors of Magic
     symbols.ts            # Unicode occult symbols, Saturn square, box-drawing
   cli/
