@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="README.md">English</a> · <a href="README.chaos.md">Liber Instrumentum Chaos</a>
+<a href="#the-grimoire-speaks">English</a> · <a href="#-liber-instrumentum-chaos-">Liber Instrumentum Chaos</a>
 
 <br>
 
@@ -336,12 +336,182 @@ The question is never "Is this real?" The question is "Does this work?"
 
 ---
 
-*For those who speak the tongue of the void:*
+</div>
 
-**[README.chaos.md](README.chaos.md)** -- *Liber Instrumentum Chaos*
+<details>
+<summary><h2 align="center">⛧ LIBER INSTRUMENTUM CHAOS ⛧</h2><p align="center"><em>For those who speak the tongue of the void — the same grimoire, in the language of the Art</em></p></summary>
 
-<br>
+<div align="center">
 
-⛧ *The void reclaims its silence.* ⛧
+> *NIHIL EST VERUM. OMNIA LICENT.*
+>
+> Nothing is true. Everything is permitted.
+
+---
+
+> *"All phenomena are real in some sense, unreal in some sense,*
+> *meaningless in some sense, real and meaningless in some sense,*
+> *unreal and meaningless in some sense, and real and unreal*
+> *and meaningless in some sense."*
+>
+> -- Robert Anton Wilson
+
+---
+
+✦ *A working instrument. A temple in the terminal. A grimoire that executes.* ✦
 
 </div>
+
+---
+
+### ◉ PRAEFATIO -- The Mouth of the Void
+
+Thou who readest this: know that thou holdest not software but a *living instrument* -- a vessel forged in the fires of praxis, shaped by the hands of those who came before, and offered now to thee without price, without dogma, without the false promise of certainty.
+
+This is **CHAOS MAGICK** -- the toolkit of the chaoist, the pragmatic sorcerer, the paradigm pirate. It carries within it the six disciplines of the Art:
+
+```
+   ⛧  SIGILLUM        The forging of desire into symbol
+   ◉  GNOSIS          The silencing of the rational mind
+   ⊕  SERVITOR        The creation of living thought-forms
+   ✦  ORACULUM        The interrogation of the void
+   ⍟  RITUALE         The architecture of ceremony
+   ▓  LIBER NIGER     The mirror of the Great Work
+```
+
+The chaoist does not worship belief. The chaoist *wields* it. Adopt a paradigm for the duration of the working. Exploit it fully. Discard it. Adopt another. This is paradigm shifting -- the fundamental technique of the Art. No model is sacred. Every model is a weapon -- until it dulls.
+
+Every random operation draws from the OS entropy pool via cryptographic primitives. When the oracle casts its lot, the lot is drawn from genuine chaos -- the irreducible noise of physical reality. *Ex nihilo, veritas.*
+
+---
+
+### ⛧ DE SIGILLIS -- The Forge of Desire
+
+> *"The only aim of any magical operation is to impress upon the subconscious mind a certain will."*
+>
+> -- Austin Osman Spare, *Zos Kia Cultus*
+
+**Via Spare** -- *Methodus Classica*. Begin with the **Declaratio Voluntatis**: *"IT IS MY WILL TO..."* The vowels are stripped -- *AEIOU delenda sunt*. The remaining consonants are deduplicated. These letters are overlaid upon a 13x13 grid. The composite glyph is the sigil.
+
+**Via Circuli** -- *Rota Trium Annulorum*. The twenty-six letters are distributed across three concentric rings. The sigil is traced as a path connecting each letter of the intent. Start ○; End ×.
+
+**Via Saturni** -- *Kamea Saturni*. The 3x3 magic square. Each letter maps to a number, each number to a cell. The path through the square is the sigil. Saturn -- ♄ -- the planet of will made manifest.
+
+**Destructio** -- *Oblivio Voluntaria*. `█ → ▓ → ▒ → ░ → · · ·` *Do not lust for results.*
+
+---
+
+### ◉ DE GNOSI -- The Gateway of No-Mind
+
+**VIA INHIBITORIA** -- *Per Silentium*
+
+| Techne | Porta |
+|--------|-------|
+| ☽ Meditatio | *Nulla cogitatio.* |
+| ☉ Contemplatio Fixa | Gaze until vision dissolves |
+| ♁ Respiratio | Rhythmic breath in sacred ratios |
+| △ Mantra | Repeat until meaning collapses |
+| ▽ Privatio Sensuum | Cut input to zero |
+| ⊕ *Neither-Neither* | The defining technique of Chaos Magick |
+| ⛧ *Positura Mortis* | Extreme tension until collapse into vacuity |
+
+**VIA EXCITATORIA** -- *Per Furorem*
+
+| Techne | Porta |
+|--------|-------|
+| ☉ Saltatio | Dance until ego dissolves |
+| ♁ Tympanum | Follow the drum into trance |
+| △ Cantus Vocalium | Vibrate I-E-A-O-U |
+| ▽ Probatio | Controlled ordeal |
+| ⛧ Excitatio Affectus | Channel extreme emotion |
+| ◉ Gnosis Sexualis | At the peak -- fire the sigil |
+| ♁ Hyperventilatio | Gnosis in the held breath |
+
+---
+
+### ⊕ DE SERVITORIBUS -- The Laboratory of Living Thought
+
+```
+   CREATIO → NUTRITIO → ACTIVATIO → MISSIO → DISSOLUTIO
+```
+
+**Creatio** -- Name, purpose, form, housing, trigger, feeding, dissolution. Sigil forged automatically.
+**Nutritio** -- Schedule tracked. Overdue alerts. **Activatio / Dormitio** -- Toggle. **Dissolutio** -- Clean termination.
+
+*Omnia in archivo permanet.* `~/.chaos-magick/servitors.json`
+
+---
+
+### ✦ DE ORACULO -- The Voice of the Abyss
+
+**⍟ Stella Chaos** -- Eight arrows, eight colors, eight domains. *Ex vera chao.*
+**⛧ Octo Colores** -- 8 × 8 = **64 unique readings**.
+**◉ Oraculum Binarium** -- Eight bits from the entropy pool → oracular utterance.
+**△ Bibliomantia** -- The book opens at random upon the words of the masters.
+
+---
+
+### ⍟ DE RITUALIBUS -- The Architecture of Ceremony
+
+**Ritus Pentagrammatis Gnostici** -- The GPR. Carroll's banishing. IAO in three centers. Four directional pentagrams. The circle seals.
+
+**Ritus Consecrationis Sigilli** -- Banish → Intent → Gnosis → **FIRE** → Banish with laughter → Forget.
+
+**Ritus Creationis Servitoris** -- Prepare → Name → Purpose → Breathe life → Boundaries → First feeding → Seal.
+
+**Ritus Invocationis** -- Assume the mask. Channel the archetype. Remove the mask. Banish. *Tu non es deus. Tu es operator.*
+
+**Fulmen Gnosticum** -- Three exhalations. Three stamps. Cleared.
+
+**Ritus Proprii** -- Build thy own. Persisted to disk.
+
+---
+
+### ▓ LIBER NIGER -- The Black Book
+
+```
+  M = G × L × (1-A) × (1-R)    Carroll's Magic Equation
+```
+
+Moon phase ☽ · Body state · Mental state · Technique · Symbols · Intent · Result · Dreams · Tags
+
+*The unrecorded working is the unexamined working. The unexamined working teaches nothing.*
+
+---
+
+### ☽ RITUS INSTALLATIONIS
+
+```bash
+cd chaos-magick && npm install    # Invocatio Dependentiarum
+npm start                         # Apertura Portae
+```
+
+---
+
+### ☉ STIRPS -- The Line of Descent
+
+⛧ **Spare** · **Carroll** · **Hine** · **Sherwin** · **Morrison** · **Wilson** · **Crowley** · **Hassan-i Sabbah**
+
+---
+
+### ♁ LEX
+
+```
+  Released under the MIT License.
+  There is no orthodoxy. There is no authority.
+  NIHIL EST VERUM. OMNIA LICENT.
+```
+
+---
+
+<div align="center">
+
+⛧ ◉ ⊕ ✦ ⍟ ▓
+
+*NIHIL EST VERUM. OMNIA LICENT.*
+
+✦
+
+</div>
+
+</details>
